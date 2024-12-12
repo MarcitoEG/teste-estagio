@@ -1,2 +1,2 @@
 # teste-estagio
-tese no estagio
+Repositório de aprendizado do estágio
